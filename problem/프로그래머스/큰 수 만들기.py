@@ -26,5 +26,3 @@ def solution(number, k):
             qn += mindex + 1
 
     return answer
-
-print(solution("1234567890"*100000, 99999))
